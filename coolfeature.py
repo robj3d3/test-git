@@ -9,4 +9,8 @@ def confusing():
 def giraffe():
     return "Not really sure why this is here"
 
+def get_epicfeature():
+    return "This is an epic feature!"
+
 print(cool_feature())
+print(get_epicfeature())
